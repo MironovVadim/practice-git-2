@@ -1,3 +1,4 @@
+language: java
 "\\rtf1": 
 notifications:
   slack:
